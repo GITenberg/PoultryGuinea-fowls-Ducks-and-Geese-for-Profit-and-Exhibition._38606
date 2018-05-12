@@ -1,0 +1,27 @@
+_repo: PoultryGuinea-fowls-Ducks-and-Geese-for-Profit-and-Exhibition._38606
+_version: 0.1.0
+alternative_title: Piper's Poultry
+covers:
+- cover_type: archival
+  image_path: 38606-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Piper, Hugh
+    gutenberg_agent_id: '39571'
+    url: http://www.gutenberg.org/2009/agents/39571
+description: ''
+gutenberg_issued: '2012-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Poultry -- Breeding'
+title: "Poultry\r\nA Practical Guide to the Choice, Breeding, Rearing, and Management\
+  \ of all Descriptions of Fowls, Turkeys, Guinea-fowls, Ducks, and Geese, for Profit\
+  \ and Exhibition."
+url: http://www.gutenberg.org/ebooks/38606
